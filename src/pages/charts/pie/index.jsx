@@ -1,9 +1,9 @@
 import React, { Component }  from "react"
 
-export default class Product extends Component {
+export default class Pie extends Component {
   render() {
     return (
-      <div>Product</div>
+      <div>未开发</div>
     )
   }
 }
